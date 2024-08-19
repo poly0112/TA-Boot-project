@@ -16,7 +16,6 @@ def comma(x):
     if change:
         result='-'+result
     return result
-
 print("숫자 콤마 찍어주는 프로그램 시작하겠습니다!! :>")
 cnt = 0
 
