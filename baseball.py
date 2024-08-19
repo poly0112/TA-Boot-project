@@ -11,7 +11,7 @@ while True:
         if Z!=Y and Z!=X:
             break
     while True:
-        num=input('숫자를 입력해주세요 : ')
+        num=input('숫자를 입력해주세요 :  ')
         
         S=0
         B=0
