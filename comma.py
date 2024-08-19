@@ -17,7 +17,7 @@ def comma(x):
         result='-'+result
     return result
 
-print("숫자 콤마 찍어주는 프로그램 :> ")
+print("숫자 콤마 찍어주는 프로그램 시작ㅎ :> ")
 cnt = 0
 
 while True :
